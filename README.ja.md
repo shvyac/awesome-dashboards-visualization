@@ -4,7 +4,7 @@
 
 [English README](README.md)
 
-**Grafana のような**オープンソースのダッシュボード・可視化ツールを集めたキュレーションリスト。監視・オブザーバビリティ、BI・データ探索、コードで作るダッシュボード、チャートライブラリに分けて紹介します。
+**Grafana のような**オープンソースのダッシュボード・可視化ツールを集めたキュレーションリスト。監視・オブザーバビリティ、BI・データ探索、コードで作るダッシュボード、チャートライブラリ、ノーコードデータベースに分けて紹介します。
 
 ⭐ バッジは GitHub のスター数をリアルタイム表示します(shields.io)。
 
@@ -14,6 +14,7 @@
 - [BI・データ探索](#biデータ探索)
 - [コードで作るダッシュボード・データアプリ](#コードで作るダッシュボードデータアプリ)
 - [チャートライブラリ](#チャートライブラリ)
+- [ノーコードデータベース・スプレッドシート UI](#ノーコードデータベーススプレッドシート-ui)
 - [アーカイブ・非アクティブ](#アーカイブ非アクティブ)
 - [関連リスト](#関連リスト)
 - [コントリビュート](#コントリビュート)
@@ -82,6 +83,20 @@ GUI ではなく Python・SQL・Markdown でダッシュボードを作るフレ
 
 ---
 
+## ノーコードデータベース・スプレッドシート UI
+
+データベースのテーブルをスプレッドシート感覚で閲覧・編集できるツール。ビュー、フォーム、自動生成 API に加え、AI アシスタントからデータを検索・更新できる MCP サーバーを備えるものが増えている。
+
+- [NocoDB](https://nocodb.com/) ![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat&label=%E2%AD%90) - 新規または既存の PostgreSQL / MySQL / SQL Server をスプレッドシート UI で扱える。グリッド・フォーム・カンバン・カレンダー・ガントのビュー、ダッシュボード、REST API、MCP サーバーを内蔵（Community Edition はレコード操作ツールのみ）。 ([GitHub](https://github.com/nocodb/nocodb))
+- [Baserow](https://baserow.io/) ![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=flat&label=%E2%AD%90) - PostgreSQL ベースのオープンソース Airtable 代替。アプリビルダー、オートメーション、ダッシュボード、MCP サーバーを内蔵。 ([GitHub](https://github.com/baserow/baserow))
+- [Teable](https://teable.ai/) ![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=flat&label=%E2%AD%90) - 大規模テーブルに強い PostgreSQL ネイティブの「AI スプレッドシート」。AI エージェントとアプリビルダー付き。 ([GitHub](https://github.com/teableio/teable))
+- [NocoBase](https://www.nocobase.com/) ![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=flat&label=%E2%AD%90) - 手元のデータ上に業務システム（CRM・ERP・社内ツール）を組み立てる、プラグイン型の AI + ノーコード基盤。 ([GitHub](https://github.com/nocobase/nocobase))
+- [Directus](https://directus.io/) ![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=flat&label=%E2%AD%90) - 任意の SQL データベースから REST / GraphQL API と管理画面（Insights ダッシュボード付き）を即座に生成。 ([GitHub](https://github.com/directus/directus))
+- [Grist](https://www.getgrist.com/) ![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=flat&label=%E2%AD%90) - Python 数式、連動ウィジェット、チャートを備えたリレーショナル・スプレッドシート。grist-core でセルフホスト可能。 ([GitHub](https://github.com/gristlabs/grist-core))
+- [APITable](https://apitable.com/) ![GitHub stars](https://img.shields.io/github/stars/apitable/apitable?style=flat&label=%E2%AD%90) - API 指向のコラボレーション型データベース。ビューを埋め込み可能（ホスト版は AITable.ai）。 ([GitHub](https://github.com/apitable/apitable))
+
+---
+
 ## アーカイブ・非アクティブ
 
 参考として残しているが、メンテナンスは終了。
@@ -128,3 +143,4 @@ GUI ではなく Python・SQL・Markdown でダッシュボードを作るフレ
 - [awesome-redmine-ai](https://github.com/shvyac/awesome-redmine-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-redmine-ai?style=flat&label=%E2%AD%90)
 - [awesome-dashboards-visualization](https://github.com/shvyac/awesome-dashboards-visualization) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-dashboards-visualization?style=flat&label=%E2%AD%90)
 - [awesome-osint-ai](https://github.com/shvyac/awesome-osint-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-osint-ai?style=flat&label=%E2%AD%90)
+- [awesome-cms-ai](https://github.com/shvyac/awesome-cms-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-cms-ai?style=flat&label=%E2%AD%90)

@@ -4,7 +4,7 @@
 
 [日本語版はこちら / Japanese](README.ja.md)
 
-A curated list of open-source dashboard and data-visualization tools **like Grafana** — observability and monitoring, BI and data exploration, dashboards as code, and charting libraries.
+A curated list of open-source dashboard and data-visualization tools **like Grafana** — observability and monitoring, BI and data exploration, dashboards as code, charting libraries, and no-code databases.
 
 ⭐ badges show live GitHub star counts (via shields.io).
 
@@ -14,6 +14,7 @@ A curated list of open-source dashboard and data-visualization tools **like Graf
 - [BI & data exploration](#bi--data-exploration)
 - [Dashboards as code & data apps](#dashboards-as-code--data-apps)
 - [Charting libraries](#charting-libraries)
+- [No-code databases & spreadsheet UIs](#no-code-databases--spreadsheet-uis)
 - [Archived / inactive](#archived--inactive)
 - [Related lists](#related-lists)
 - [Contributing](#contributing)
@@ -82,6 +83,20 @@ Building blocks for custom visualizations.
 
 ---
 
+## No-code databases & spreadsheet UIs
+
+Browse and edit database tables in a spreadsheet-like UI, with views, forms, auto-generated APIs, and increasingly an MCP server so AI assistants can query and update the data.
+
+- [NocoDB](https://nocodb.com/) ![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=flat&label=%E2%AD%90) - Spreadsheet UI over new or existing PostgreSQL / MySQL / SQL Server databases; grid, form, kanban, calendar and Gantt views, dashboards, REST APIs, and a built-in MCP server (record tools in the Community Edition). ([GitHub](https://github.com/nocodb/nocodb))
+- [Baserow](https://baserow.io/) ![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=flat&label=%E2%AD%90) - Open-source Airtable alternative on PostgreSQL with an application builder, automations, dashboards, and a built-in MCP server. ([GitHub](https://github.com/baserow/baserow))
+- [Teable](https://teable.ai/) ![GitHub stars](https://img.shields.io/github/stars/teableio/teable?style=flat&label=%E2%AD%90) - PostgreSQL-native "AI spreadsheet" built for large tables, with an AI agent and app builder. ([GitHub](https://github.com/teableio/teable))
+- [NocoBase](https://www.nocobase.com/) ![GitHub stars](https://img.shields.io/github/stars/nocobase/nocobase?style=flat&label=%E2%AD%90) - Plugin-based AI + no-code platform for building business systems (CRM, ERP, internal tools) on your data. ([GitHub](https://github.com/nocobase/nocobase))
+- [Directus](https://directus.io/) ![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=flat&label=%E2%AD%90) - Turns any SQL database into instant REST/GraphQL APIs plus an admin app with insights dashboards. ([GitHub](https://github.com/directus/directus))
+- [Grist](https://www.getgrist.com/) ![GitHub stars](https://img.shields.io/github/stars/gristlabs/grist-core?style=flat&label=%E2%AD%90) - Relational spreadsheet with Python formulas, linked widgets, and charts; self-hostable grist-core. ([GitHub](https://github.com/gristlabs/grist-core))
+- [APITable](https://apitable.com/) ![GitHub stars](https://img.shields.io/github/stars/apitable/apitable?style=flat&label=%E2%AD%90) - API-oriented collaborative database with embeddable views (AITable.ai is the hosted service). ([GitHub](https://github.com/apitable/apitable))
+
+---
+
 ## Archived / inactive
 
 Kept for reference; no longer maintained.
@@ -128,3 +143,4 @@ All curated lists maintained by [shvyac](https://github.com/shvyac):
 - [awesome-redmine-ai](https://github.com/shvyac/awesome-redmine-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-redmine-ai?style=flat&label=%E2%AD%90)
 - [awesome-dashboards-visualization](https://github.com/shvyac/awesome-dashboards-visualization) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-dashboards-visualization?style=flat&label=%E2%AD%90)
 - [awesome-osint-ai](https://github.com/shvyac/awesome-osint-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-osint-ai?style=flat&label=%E2%AD%90)
+- [awesome-cms-ai](https://github.com/shvyac/awesome-cms-ai) ![GitHub stars](https://img.shields.io/github/stars/shvyac/awesome-cms-ai?style=flat&label=%E2%AD%90)
