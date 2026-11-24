@@ -39,6 +39,7 @@
 - [Apache SkyWalking](https://skywalking.apache.org/) ![GitHub stars](https://img.shields.io/github/stars/apache/skywalking?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F06-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/apache/skywalking?style=flat) - トポロジーマップとダッシュボードを備えた APM・分散トレーシング。 ([GitHub](https://github.com/apache/skywalking))
 - [Apache HertzBeat](https://hertzbeat.apache.org/) ![GitHub stars](https://img.shields.io/github/stars/apache/hertzbeat?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F17-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/apache/hertzbeat?style=flat) - エージェント不要のリアルタイム監視。ダッシュボード、アラート、ステータスページ付き。 ([GitHub](https://github.com/apache/hertzbeat))
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) ![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F17-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/louislam/uptime-kuma?style=flat) - セルフホストの死活監視。見やすいダッシュボードと公開ステータスページ。
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) ![GitHub stars](https://img.shields.io/github/stars/NikKurkov/sitewatcher?style=flat&label=%E2%AD%90) ![Last commit](https://img.shields.io/github/last-commit/NikKurkov/sitewatcher?style=flat) - セルフホスト型のウェブサイト監視ダッシュボード。応答時間の履歴、TLS 証明書とドメイン登録の有効期限チェック、公開ステータスページに対応。
 
 ---
 
